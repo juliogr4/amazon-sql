@@ -1,5 +1,4 @@
-![image](https://github.com/juliogr4/amazon-sql/assets/102883494/b847db5d-3da0-4e36-9953-aaa3fa75bef5)
-
+![amazon-modelling drawio](https://github.com/juliogr4/amazon-sql/assets/102883494/ea1b7de5-efc3-447e-9bce-1feebfaf80f9)
 
 This is the Amazon clone database model in SQL.
 
